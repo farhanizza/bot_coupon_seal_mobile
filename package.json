@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "esm": "^3.2.25",
+    "inquirer": "^9.2.6",
+    "puppeteer": "^20.4.0"
+  }
+}
